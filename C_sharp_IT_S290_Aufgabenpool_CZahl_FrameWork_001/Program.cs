@@ -42,7 +42,7 @@ namespace C_sharp_IT_S290_Aufgabenpool_CZahl_FrameWork_001
             // Der Standard-Konstruktor wird danach NICHT aufgerufen !
         }
 
-        // HIER 21:01
+        // HIER 21:22
 
         public void SetPunkte(CPunkt p0, CPunkt p1, CPunkt p2, CPunkt p3)
         {
