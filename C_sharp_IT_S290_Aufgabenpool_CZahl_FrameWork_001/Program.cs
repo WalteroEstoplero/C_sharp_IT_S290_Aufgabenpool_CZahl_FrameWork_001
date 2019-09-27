@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-// github 2019-09-27
+// github 2019-09-27 19:27
 namespace C_sharp_IT_S290_Aufgabenpool_CZahl_FrameWork_001
 {
     public class CGrundForm
